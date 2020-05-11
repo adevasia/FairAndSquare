@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">"Fair And Square"</string>
+
+    <string-array name="method">
+        <item>ROCK PAPER SCISSORS</item>
+        <item>COIN FLIP</item>
+        <item>ROLL DICE</item>
+    </string-array>
+
+    <string-array name="game">
+        <item>Use if you have two options, but have a preferred choice\nBest 2 out of 3</item>
+        <item>Use if you have two options</item>
+        <item>Use if you have multiple options</item>
+    </string-array>
+
+    <string-array name="howTo">
+        <item>
+               1. Type your preferred option \n
+               2. Type your alternative option \n
+               3. Pick your move: \n"♦ Rock: Double tap \n♦ Paper: Long press \n♦ Scissors: Fling/Swipe \n"
+               4. Continue to pick a move until winner is decided
+        </item>
+        <item>
+              1. Type your tails option\n
+              2. Type your heads option\n
+              3. Tap on the penny to start the flip\n
+              4. Flip the device over onto a flat surface to stop the flip
+        </item>
+        <item>
+              1. Select how many options you want\n
+              2. Type your options in separately\n
+              3. Jolt/tip the device to roll the dice\n
+              4. Roll again until the dialog box appears revealing the chosen option
+        </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
