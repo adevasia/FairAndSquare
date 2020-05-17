@@ -1,16 +1,5 @@
 package com.duallens.fairandsquare;
-/*
-Silas Adams
-C10417262
-silasa@g.clemson.edu
 
-Alicia Devasia
-C18551184
-amdevas@g.clemson.edu
-
-CPSC 4150: Fair and Square
-December 2, 2019
-*/
 import android.content.Context;
 import android.content.res.Resources;
 

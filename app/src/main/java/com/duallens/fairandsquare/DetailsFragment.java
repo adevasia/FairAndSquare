@@ -6,18 +6,7 @@ import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
-/*
-Silas Adams
-C10417262
-silasa@g.clemson.edu
 
-Alicia Devasia
-C18551184
-amdevas@g.clemson.edu
-
-CPSC 4150: Fair and Square
-December 2, 2019
-*/
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
